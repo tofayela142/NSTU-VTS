@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "203739121006",
+    "firebase_url": "https://nstu-vts-default-rtdb.firebaseio.com",
+    "project_id": "nstu-vts",
+    "storage_bucket": "nstu-vts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203739121006:android:d0017966f27c229b816d7f",
+        "android_client_info": {
+          "package_name": "org.nstu.bus_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203739121006-jt3oaoaffn0ubda4h0ars8l8si4f3pdc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.nstu.bus_tracker",
+            "certificate_hash": "5825aec55829903eb1d49d1bfbfa8686d791b921"
+          }
+        },
+        {
+          "client_id": "203739121006-d6k3gp1oiv5t5ip4ttiicbmicrgr6nrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4i31jJwSCYO2bC_UuIvMnjMB9wf_npks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203739121006-d6k3gp1oiv5t5ip4ttiicbmicrgr6nrj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

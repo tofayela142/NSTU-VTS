@@ -1,0 +1,4 @@
+#Mon Feb 24 00:16:49 BDT 2025
+base.0=D\:\\Project Java\\nstu-vts\\nstu-vts\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

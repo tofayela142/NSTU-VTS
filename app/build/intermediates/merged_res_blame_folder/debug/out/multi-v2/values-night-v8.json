@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\src\\main\\res\\values-night\\colors.xml",
+                    "from": {
+                        "startLines": "5,10,11,12,8,6,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "138,272,328,379,223,179,56,98",
+                        "endColumns": "40,55,50,48,47,42,41,39",
+                        "endOffsets": "174,323,374,423,266,217,93,133"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,96,152,203,252,300,343,385",
+                        "endColumns": "40,55,50,48,47,42,41,39",
+                        "endOffsets": "91,147,198,247,295,338,380,420"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\82b598a6aff5984fed187d95d4f2872a\\transformed\\appcompat-v7-27.1.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "120,204,288,384,486,588,682"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "425,495,579,663,759,861,963",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "490,574,658,754,856,958,1052"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main2.xml.flat",
+        "source": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_launcher.xml.flat",
+        "source": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\src\\main\\res\\layout\\activity_launcher.xml"
+    },
+    {
+        "merged": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\build\\intermediates\\merged_res\\debug\\drawable_submit_btn2.xml.flat",
+        "source": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\src\\main\\res\\drawable\\submit_btn2.xml"
+    },
+    {
+        "merged": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\build\\intermediates\\merged_res\\debug\\layout_bus_marker_layout.xml.flat",
+        "source": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\src\\main\\res\\layout\\bus_marker_layout.xml"
+    },
+    {
+        "merged": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\build\\intermediates\\merged_res\\debug\\layout_my_location_demo.xml.flat",
+        "source": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\src\\main\\res\\layout\\my_location_demo.xml"
+    },
+    {
+        "merged": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\build\\intermediates\\merged_res\\debug\\drawable_bus_marker.png.flat",
+        "source": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\src\\main\\res\\drawable\\bus_marker.png"
+    },
+    {
+        "merged": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\build\\intermediates\\merged_res\\debug\\layout_driver_activity.xml.flat",
+        "source": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\src\\main\\res\\layout\\driver_activity.xml"
+    },
+    {
+        "merged": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_marker.png.flat",
+        "source": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\src\\main\\res\\drawable-ldpi\\marker.png"
+    },
+    {
+        "merged": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Project Java\\nstu-vts\\nstu-vts\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]

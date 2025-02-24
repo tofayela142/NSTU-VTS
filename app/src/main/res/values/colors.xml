@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="view_bg">#b20e0f</color>
+    <color name="white">#ffffff</color>
+    <color name="btn_bg">#3e4a56</color>
+    <color name="toast_bg">#ff8210</color>
+
+    <color name="submit_button">#adceff</color>
+
+    <color name="colorSliderBackground">#393939</color>
+    <color name="colorSwitchColor">#2a95ff</color>
+    <color name="colorTextColor">#1d1e1e</color>
+
+</resources>

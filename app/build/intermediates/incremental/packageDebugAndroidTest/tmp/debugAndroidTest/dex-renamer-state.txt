@@ -1,0 +1,4 @@
+#Mon Jul 08 14:54:28 BDT 2024
+base.0=D\:\\Project Java\\nstu-vts\\nstu-vts\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

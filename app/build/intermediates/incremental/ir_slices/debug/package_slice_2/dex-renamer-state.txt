@@ -1,0 +1,4 @@
+#Thu Jul 27 11:19:37 BDT 2023
+base.0=E\:\\NahidMameProject\\nstu-vts\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\402
+path.0=classes.dex
+renamed.0=classes.dex

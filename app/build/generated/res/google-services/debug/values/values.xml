@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">203739121006-d6k3gp1oiv5t5ip4ttiicbmicrgr6nrj.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://nstu-vts-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">203739121006</string>
+    <string name="google_api_key" translatable="false">AIzaSyA4i31jJwSCYO2bC_UuIvMnjMB9wf_npks</string>
+    <string name="google_app_id" translatable="false">1:203739121006:android:d0017966f27c229b816d7f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA4i31jJwSCYO2bC_UuIvMnjMB9wf_npks</string>
+    <string name="google_storage_bucket" translatable="false">nstu-vts.appspot.com</string>
+    <string name="project_id" translatable="false">nstu-vts</string>
+</resources>
